@@ -28,7 +28,7 @@ To start using this project:
 
 # Author Contact Information
 -[https://leondante-ctrl.github.io/second-delani/]
--`0701259902`
+-`0728691601`
 -[maxgamerdu@gmail.com]
 
 # License info
